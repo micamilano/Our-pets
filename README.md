@@ -1,5 +1,6 @@
-# Our_pets
+# Our pets
+<p>Simple responsive web</p>
 
-CSS 
-  -> Responsive desing
-  -> Mobile first
+### CSS 
+  - Responsive desing
+  - Mobile first
